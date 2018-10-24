@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782780656653",
+    "firebase_url": "https://bebabeba-34dc4.firebaseio.com",
+    "project_id": "bebabeba-34dc4",
+    "storage_bucket": "bebabeba-34dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782780656653:android:3b42b8ba3167d5e1",
+        "android_client_info": {
+          "package_name": "com.bebabeba.bebabeba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782780656653-e7rnle6j0pph500rejt9idldd6dso97i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bebabeba.bebabeba",
+            "certificate_hash": "2ec9864af6e352fe187a6c60aefa1173a1c719e0"
+          }
+        },
+        {
+          "client_id": "782780656653-f0ino4cjejtv2nls5c57oshrnaoo9nh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbav4NcMnDL2A1Q4QaiegDs2JVgFYCndQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782780656653-f0ino4cjejtv2nls5c57oshrnaoo9nh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
